@@ -14,7 +14,7 @@ on:
 
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp -b twrp-12.1
-  DEVICE:sofiar
+  DEVICE: sofiar
   DT_LINK: https://github.com/twrpdtgen/android_device_motorola_sofiar/tree/sofiar_retail-user-11-RPES31.Q4U-47-35-11-5f1af-release-keys
   DT_PATH: device/motorola/sofiar
   TARGET: recoveryimage
